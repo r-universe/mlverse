@@ -7,3 +7,7 @@
 	path = torch
 	url = https://github.com/mlverse/torch
 	shallow = true
+[submodule "torchvision"]
+	path = torchvision
+	url = https://github.com/mlverse/torchvision
+	shallow = true

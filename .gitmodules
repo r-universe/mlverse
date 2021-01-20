@@ -7,6 +7,10 @@
 	path = torch
 	url = https://github.com/mlverse/torch
 	shallow = true
+[submodule "torchdatasets"]
+	path = torchdatasets
+	url = https://github.com/mlverse/torchdatasets
+	shallow = true
 [submodule "torchvision"]
 	path = torchvision
 	url = https://github.com/mlverse/torchvision

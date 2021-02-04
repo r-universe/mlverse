@@ -137,10 +137,8 @@ jobs:
         uses: actions/cache@v2
         with:
           path: |
-            /opt/X11
-            /usr/local/gfortran
+            /opt/X11/lib
           key: ${{ runner.os }}-${{ steps.install-r.outputs.installed-r-version }}-1
-          restore-keys: ${{ runner.os }}-
       - name: Install build tools
         if: runner.os == 'macos' && steps.cache-primes.outputs.cache-hit != 'true'
         uses: r-universe-org/install-tools@master

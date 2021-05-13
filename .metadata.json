@@ -1,0 +1,14 @@
+[
+  {
+    "package": "torch",
+    "oncran": true
+  },
+  {
+    "package": "torchdatasets",
+    "oncran": true
+  },
+  {
+    "package": "torchvision",
+    "oncran": true
+  }
+]

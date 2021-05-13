@@ -8,13 +8,16 @@
 	url = https://github.com/mlverse/torch
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "torchdatasets"]
 	path = torchdatasets
 	url = https://github.com/mlverse/torchdatasets
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "torchvision"]
 	path = torchvision
 	url = https://github.com/mlverse/torchvision
 	shallow = true
 	registered = true
+	oncran = true

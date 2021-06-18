@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "luz"]
+	path = luz
+	url = https://github.com/mlverse/luz
+	shallow = true
+	registered = true
 [submodule "torch"]
 	path = torch
 	url = https://github.com/mlverse/torch

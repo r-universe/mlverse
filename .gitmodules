@@ -8,6 +8,11 @@
 	url = https://github.com/mlverse/luz
 	shallow = true
 	registered = true
+[submodule "tabnet"]
+	path = tabnet
+	url = https://github.com/mlverse/tabnet
+	shallow = true
+	registered = true
 [submodule "torch"]
 	path = torch
 	url = https://github.com/mlverse/torch

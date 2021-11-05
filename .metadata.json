@@ -1,5 +1,9 @@
 [
   {
+    "package": "cuda.ml",
+    "oncran": true
+  },
+  {
     "package": "luz",
     "oncran": true
   },

@@ -12,6 +12,10 @@
     "oncran": true
   },
   {
+    "package": "tabulate",
+    "oncran": true
+  },
+  {
     "package": "torch",
     "oncran": true
   },

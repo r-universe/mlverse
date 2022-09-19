@@ -4,6 +4,10 @@
     "oncran": true
   },
   {
+    "package": "luz",
+    "oncran": true
+  },
+  {
     "package": "tabnet",
     "oncran": true
   },

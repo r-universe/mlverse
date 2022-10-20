@@ -1,0 +1,8 @@
+[
+  {
+    "package": "torch",
+    "url": "https://github.com/mlverse/torch",
+    "via": ["luz"],
+    "from": "luz"
+  }
+]

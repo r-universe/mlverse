@@ -26,5 +26,9 @@
   {
     "package": "torchvision",
     "oncran": true
+  },
+  {
+    "package": "wav",
+    "oncran": true
   }
 ]

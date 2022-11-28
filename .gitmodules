@@ -38,3 +38,8 @@
 	url = https://github.com/mlverse/torchvision
 	shallow = true
 	registered = true
+[submodule "wav"]
+	path = wav
+	url = https://github.com/mlverse/wav
+	shallow = true
+	registered = true

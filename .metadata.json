@@ -16,6 +16,10 @@
     "oncran": true
   },
   {
+    "package": "tfevents",
+    "oncran": true
+  },
+  {
     "package": "torch",
     "oncran": true
   },

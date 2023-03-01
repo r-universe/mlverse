@@ -16,8 +16,7 @@
     "oncran": true
   },
   {
-    "package": "tfevents",
-    "oncran": true
+    "package": "tfevents"
   },
   {
     "package": "torch",

@@ -23,6 +23,11 @@
 	url = https://github.com/mlverse/tabulate
 	shallow = true
 	registered = true
+[submodule "tfevents"]
+	path = tfevents
+	url = https://github.com/mlverse/tfevents
+	shallow = true
+	registered = true
 [submodule "torch"]
 	path = torch
 	url = https://github.com/mlverse/torch
@@ -41,10 +46,5 @@
 [submodule "wav"]
 	path = wav
 	url = https://github.com/mlverse/wav
-	shallow = true
-	registered = true
-[submodule "tfevents"]
-	path = tfevents
-	url = https://github.com/mlverse/tfevents
 	shallow = true
 	registered = true

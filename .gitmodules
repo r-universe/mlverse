@@ -3,39 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "torchdatasets"]
-	path = torchdatasets
-	url = https://github.com/mlverse/torchdatasets
-	shallow = true
-	registered = true
-[submodule "wav"]
-	path = wav
-	url = https://github.com/mlverse/wav
-	shallow = true
-	registered = true
 [submodule "cuda.ml"]
 	path = cuda.ml
 	url = https://github.com/mlverse/cuda.ml
-	shallow = true
-	registered = true
-[submodule "tabulate"]
-	path = tabulate
-	url = https://github.com/mlverse/tabulate
-	shallow = true
-	registered = true
-[submodule "torchvision"]
-	path = torchvision
-	url = https://github.com/mlverse/torchvision
-	shallow = true
-	registered = true
-[submodule "tabnet"]
-	path = tabnet
-	url = https://github.com/mlverse/tabnet
-	shallow = true
-	registered = true
-[submodule "torch"]
-	path = torch
-	url = https://github.com/mlverse/torch
 	shallow = true
 	registered = true
 [submodule "luz"]
@@ -43,8 +13,38 @@
 	url = https://github.com/mlverse/luz
 	shallow = true
 	registered = true
+[submodule "tabnet"]
+	path = tabnet
+	url = https://github.com/mlverse/tabnet
+	shallow = true
+	registered = true
+[submodule "tabulate"]
+	path = tabulate
+	url = https://github.com/mlverse/tabulate
+	shallow = true
+	registered = true
 [submodule "tfevents"]
 	path = tfevents
 	url = https://github.com/mlverse/tfevents
+	shallow = true
+	registered = true
+[submodule "torch"]
+	path = torch
+	url = https://github.com/mlverse/torch
+	shallow = true
+	registered = true
+[submodule "torchdatasets"]
+	path = torchdatasets
+	url = https://github.com/mlverse/torchdatasets
+	shallow = true
+	registered = true
+[submodule "torchvision"]
+	path = torchvision
+	url = https://github.com/mlverse/torchvision
+	shallow = true
+	registered = true
+[submodule "wav"]
+	path = wav
+	url = https://github.com/mlverse/wav
 	shallow = true
 	registered = true

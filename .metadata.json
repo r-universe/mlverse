@@ -1,14 +1,14 @@
 [
   {
+    "package": "torchdatasets",
+    "oncran": true
+  },
+  {
+    "package": "wav",
+    "oncran": true
+  },
+  {
     "package": "cuda.ml",
-    "oncran": true
-  },
-  {
-    "package": "luz",
-    "oncran": true
-  },
-  {
-    "package": "tabnet",
     "oncran": true
   },
   {
@@ -16,7 +16,11 @@
     "oncran": true
   },
   {
-    "package": "tfevents",
+    "package": "torchvision",
+    "oncran": true
+  },
+  {
+    "package": "tabnet",
     "oncran": true
   },
   {
@@ -24,15 +28,11 @@
     "oncran": true
   },
   {
-    "package": "torchdatasets",
+    "package": "luz",
     "oncran": true
   },
   {
-    "package": "torchvision",
-    "oncran": true
-  },
-  {
-    "package": "wav",
+    "package": "tfevents",
     "oncran": true
   }
 ]

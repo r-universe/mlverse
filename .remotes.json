@@ -1,0 +1,8 @@
+[
+  {
+    "package": "safetensors",
+    "url": "https://github.com/mlverse/safetensors",
+    "via": ["torch"],
+    "from": "torch"
+  }
+]

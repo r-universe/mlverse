@@ -48,3 +48,8 @@
 	url = https://github.com/mlverse/wav
 	shallow = true
 	registered = true
+[submodule "safetensors"]
+	path = safetensors
+	url = https://github.com/mlverse/safetensors
+	shallow = true
+	registered = false

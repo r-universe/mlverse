@@ -13,6 +13,11 @@
 	url = https://github.com/mlverse/luz
 	shallow = true
 	registered = true
+[submodule "safetensors"]
+	path = safetensors
+	url = https://github.com/mlverse/safetensors
+	shallow = true
+	registered = true
 [submodule "tabnet"]
 	path = tabnet
 	url = https://github.com/mlverse/tabnet
@@ -48,8 +53,3 @@
 	url = https://github.com/mlverse/wav
 	shallow = true
 	registered = true
-[submodule "safetensors"]
-	path = safetensors
-	url = https://github.com/mlverse/safetensors
-	shallow = true
-	registered = false

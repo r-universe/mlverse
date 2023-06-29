@@ -5,6 +5,9 @@
 [submodule "cuda.ml"]
 	path = cuda.ml
 	url = https://github.com/mlverse/cuda.ml
+[submodule "hfhub"]
+	path = hfhub
+	url = https://github.com/mlverse/hfhub
 [submodule "luz"]
 	path = luz
 	url = https://github.com/mlverse/luz

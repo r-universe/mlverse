@@ -23,6 +23,9 @@
 [submodule "tfevents"]
 	path = tfevents
 	url = https://github.com/mlverse/tfevents
+[submodule "tok"]
+	path = tok
+	url = https://github.com/mlverse/tok
 [submodule "torch"]
 	path = torch
 	url = https://github.com/mlverse/torch

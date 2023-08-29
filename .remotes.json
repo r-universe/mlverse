@@ -2,7 +2,19 @@
   {
     "package": "safetensors",
     "url": "https://github.com/mlverse/safetensors",
+    "via": ["luz", "torch"],
+    "from": "luz"
+  },
+  {
+    "package": "safetensors",
+    "url": "https://github.com/mlverse/safetensors",
     "via": ["torch"],
     "from": "torch"
+  },
+  {
+    "package": "torch",
+    "url": "https://github.com/mlverse/torch",
+    "via": ["luz"],
+    "from": "luz"
   }
 ]

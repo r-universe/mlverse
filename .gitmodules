@@ -11,6 +11,9 @@
 [submodule "luz"]
 	path = luz
 	url = https://github.com/mlverse/luz
+[submodule "pysparklyr"]
+	path = pysparklyr
+	url = https://github.com/mlverse/pysparklyr
 [submodule "safetensors"]
 	path = safetensors
 	url = https://github.com/mlverse/safetensors

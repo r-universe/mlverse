@@ -42,6 +42,9 @@
 [submodule "torchvision"]
 	path = torchvision
 	url = https://github.com/mlverse/torchvision
+[submodule "torchvisionlib"]
+	path = torchvisionlib
+	url = https://github.com/mlverse/torchvisionlib
 [submodule "wav"]
 	path = wav
 	url = https://github.com/mlverse/wav

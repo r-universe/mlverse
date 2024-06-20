@@ -17,10 +17,6 @@
 [submodule "pysparklyr"]
 	path = pysparklyr
 	url = https://github.com/mlverse/pysparklyr
-[submodule "reticulate"]
-	path = reticulate
-	url = https://github.com/rstudio/reticulate
-	registered = false
 [submodule "safetensors"]
 	path = safetensors
 	url = https://github.com/mlverse/safetensors

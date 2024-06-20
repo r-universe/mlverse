@@ -1,11 +1,5 @@
 [
   {
-    "package": "reticulate",
-    "url": "https://github.com/rstudio/reticulate",
-    "via": ["pysparklyr"],
-    "from": "pysparklyr"
-  },
-  {
     "package": "torch",
     "url": "https://github.com/mlverse/torch",
     "via": ["luz"],

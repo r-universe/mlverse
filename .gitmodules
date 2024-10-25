@@ -14,6 +14,10 @@
 [submodule "luz"]
 	path = luz
 	url = https://github.com/mlverse/luz
+[submodule "mall"]
+	path = mall
+	url = https://github.com/mlverse/mall
+	subdir = r
 [submodule "pysparklyr"]
 	path = pysparklyr
 	url = https://github.com/mlverse/pysparklyr

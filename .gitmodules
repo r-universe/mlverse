@@ -2,6 +2,10 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "Rcpp"]
+	path = Rcpp
+	url = https://github.com/RcppCore/Rcpp
+	registered = false
 [submodule "chattr"]
 	path = chattr
 	url = https://github.com/mlverse/chattr

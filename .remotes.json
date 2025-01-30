@@ -1,11 +1,5 @@
 [
   {
-    "package": "Rcpp",
-    "url": "https://github.com/RcppCore/Rcpp",
-    "via": ["torch"],
-    "from": "torch"
-  },
-  {
     "package": "torch",
     "url": "https://github.com/mlverse/torch",
     "via": ["luz"],

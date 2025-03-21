@@ -1,11 +1,5 @@
 [
   {
-    "package": "sparklyr",
-    "url": "https://github.com/sparklyr/sparklyr",
-    "via": ["pysparklyr"],
-    "from": "pysparklyr"
-  },
-  {
     "package": "torch",
     "url": "https://github.com/mlverse/torch",
     "via": ["luz"],

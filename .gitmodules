@@ -24,10 +24,6 @@
 [submodule "safetensors"]
 	path = safetensors
 	url = https://github.com/mlverse/safetensors
-[submodule "sparklyr"]
-	path = sparklyr
-	url = https://github.com/sparklyr/sparklyr
-	registered = false
 [submodule "tabnet"]
 	path = tabnet
 	url = https://github.com/mlverse/tabnet

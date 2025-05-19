@@ -27,9 +27,6 @@
 [submodule "tabnet"]
 	path = tabnet
 	url = https://github.com/mlverse/tabnet
-[submodule "tabulate"]
-	path = tabulate
-	url = https://github.com/mlverse/tabulate
 [submodule "tfevents"]
 	path = tfevents
 	url = https://github.com/mlverse/tfevents

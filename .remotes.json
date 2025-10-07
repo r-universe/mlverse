@@ -1,8 +1,0 @@
-[
-  {
-    "package": "sparklyr",
-    "url": "https://github.com/sparklyr/sparklyr",
-    "via": ["pysparklyr"],
-    "from": "pysparklyr"
-  }
-]

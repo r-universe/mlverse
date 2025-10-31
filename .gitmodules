@@ -11,6 +11,9 @@
 [submodule "hfhub"]
 	path = hfhub
 	url = https://github.com/mlverse/hfhub
+[submodule "lang"]
+	path = lang
+	url = https://github.com/mlverse/lang
 [submodule "luz"]
 	path = luz
 	url = https://github.com/mlverse/luz

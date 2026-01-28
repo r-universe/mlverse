@@ -27,6 +27,10 @@
 [submodule "safetensors"]
 	path = safetensors
 	url = https://github.com/mlverse/safetensors
+[submodule "sparklyr"]
+	path = sparklyr
+	url = https://github.com/sparklyr/sparklyr
+	registered = false
 [submodule "tabnet"]
 	path = tabnet
 	url = https://github.com/mlverse/tabnet
@@ -48,6 +52,10 @@
 [submodule "torchvisionlib"]
 	path = torchvisionlib
 	url = https://github.com/mlverse/torchvisionlib
+[submodule "tune"]
+	path = tune
+	url = https://github.com/tidymodels/tune
+	registered = false
 [submodule "wav"]
 	path = wav
 	url = https://github.com/mlverse/wav

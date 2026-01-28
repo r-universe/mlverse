@@ -1,0 +1,14 @@
+[
+  {
+    "package": "sparklyr",
+    "url": "https://github.com/sparklyr/sparklyr",
+    "via": ["pysparklyr"],
+    "from": "pysparklyr"
+  },
+  {
+    "package": "tune",
+    "url": "https://github.com/tidymodels/tune",
+    "via": ["pysparklyr"],
+    "from": "pysparklyr"
+  }
+]

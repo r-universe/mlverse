@@ -1,5 +1,17 @@
 [
   {
+    "package": "hardhat",
+    "url": "https://github.com/tidymodels/hardhat",
+    "via": ["pysparklyr", "tune", "yardstick"],
+    "from": "pysparklyr"
+  },
+  {
+    "package": "parsnip",
+    "url": "https://github.com/tidymodels/parsnip",
+    "via": ["pysparklyr", "tune"],
+    "from": "pysparklyr"
+  },
+  {
     "package": "sparklyr",
     "url": "https://github.com/sparklyr/sparklyr",
     "via": ["pysparklyr"],
@@ -9,6 +21,12 @@
     "package": "tune",
     "url": "https://github.com/tidymodels/tune",
     "via": ["pysparklyr"],
+    "from": "pysparklyr"
+  },
+  {
+    "package": "yardstick",
+    "url": "https://github.com/tidymodels/yardstick",
+    "via": ["pysparklyr", "tune"],
     "from": "pysparklyr"
   }
 ]

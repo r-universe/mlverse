@@ -8,6 +8,10 @@
 [submodule "cuda.ml"]
 	path = cuda.ml
 	url = https://github.com/mlverse/cuda.ml
+[submodule "hardhat"]
+	path = hardhat
+	url = https://github.com/tidymodels/hardhat
+	registered = false
 [submodule "hfhub"]
 	path = hfhub
 	url = https://github.com/mlverse/hfhub
@@ -21,6 +25,10 @@
 	path = mall
 	url = https://github.com/mlverse/mall
 	subdir = r
+[submodule "parsnip"]
+	path = parsnip
+	url = https://github.com/tidymodels/parsnip
+	registered = false
 [submodule "pysparklyr"]
 	path = pysparklyr
 	url = https://github.com/mlverse/pysparklyr
@@ -59,3 +67,7 @@
 [submodule "wav"]
 	path = wav
 	url = https://github.com/mlverse/wav
+[submodule "yardstick"]
+	path = yardstick
+	url = https://github.com/tidymodels/yardstick
+	registered = false

@@ -20,10 +20,6 @@
 	path = cuda13.2
 	url = https://github.com/mlverse/cudatoolkit
 	subdir = cuda13.2
-[submodule "hardhat"]
-	path = hardhat
-	url = https://github.com/tidymodels/hardhat
-	registered = false
 [submodule "hfhub"]
 	path = hfhub
 	url = https://github.com/mlverse/hfhub
@@ -36,20 +32,12 @@
 [submodule "mall"]
 	path = mall
 	url = https://github.com/mlverse/mall
-[submodule "parsnip"]
-	path = parsnip
-	url = https://github.com/tidymodels/parsnip
-	registered = false
 [submodule "pysparklyr"]
 	path = pysparklyr
 	url = https://github.com/mlverse/pysparklyr
 [submodule "safetensors"]
 	path = safetensors
 	url = https://github.com/mlverse/safetensors
-[submodule "sparklyr"]
-	path = sparklyr
-	url = https://github.com/sparklyr/sparklyr
-	registered = false
 [submodule "tabnet"]
 	path = tabnet
 	url = https://github.com/mlverse/tabnet
@@ -71,14 +59,6 @@
 [submodule "torchvisionlib"]
 	path = torchvisionlib
 	url = https://github.com/mlverse/torchvisionlib
-[submodule "tune"]
-	path = tune
-	url = https://github.com/tidymodels/tune
-	registered = false
 [submodule "wav"]
 	path = wav
 	url = https://github.com/mlverse/wav
-[submodule "yardstick"]
-	path = yardstick
-	url = https://github.com/tidymodels/yardstick
-	registered = false

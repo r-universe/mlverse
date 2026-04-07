@@ -16,6 +16,10 @@
 	path = cuda12.8
 	url = https://github.com/mlverse/cudatoolkit
 	subdir = cuda12.8
+[submodule "cuda12.9"]
+	path = cuda12.9
+	url = https://github.com/mlverse/cudatoolkit
+	subdir = cuda12.9
 [submodule "cuda13.2"]
 	path = cuda13.2
 	url = https://github.com/mlverse/cudatoolkit
